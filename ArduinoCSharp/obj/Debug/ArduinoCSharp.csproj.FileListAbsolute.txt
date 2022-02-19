@@ -1,0 +1,14 @@
+C:\Users\jason\source\repos\ArduinoCSharp\ArduinoCSharp\bin\Debug\ArduinoCSharp.exe.config
+C:\Users\jason\source\repos\ArduinoCSharp\ArduinoCSharp\bin\Debug\ArduinoCSharp.exe
+C:\Users\jason\source\repos\ArduinoCSharp\ArduinoCSharp\bin\Debug\ArduinoCSharp.pdb
+C:\Users\jason\source\repos\ArduinoCSharp\ArduinoCSharp\obj\Debug\ArduinoCSharp.csproj.AssemblyReference.cache
+C:\Users\jason\source\repos\ArduinoCSharp\ArduinoCSharp\obj\Debug\ArduinoCSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\jason\source\repos\ArduinoCSharp\ArduinoCSharp\obj\Debug\ArduinoCSharp.Form1.resources
+C:\Users\jason\source\repos\ArduinoCSharp\ArduinoCSharp\obj\Debug\ArduinoCSharp.Properties.Resources.resources
+C:\Users\jason\source\repos\ArduinoCSharp\ArduinoCSharp\obj\Debug\ArduinoCSharp.csproj.GenerateResource.cache
+C:\Users\jason\source\repos\ArduinoCSharp\ArduinoCSharp\obj\Debug\ArduinoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\ArduinoCSharp\ArduinoCSharp\obj\Debug\ArduinoCSharp.exe
+C:\Users\jason\source\repos\ArduinoCSharp\ArduinoCSharp\obj\Debug\ArduinoCSharp.pdb
+C:\Users\jason\source\repos\ArduinoCSharp\ArduinoCSharp\bin\Debug\System.IO.Ports.dll
+C:\Users\jason\source\repos\ArduinoCSharp\ArduinoCSharp\bin\Debug\System.IO.Ports.xml
+C:\Users\jason\source\repos\ArduinoCSharp\ArduinoCSharp\obj\Debug\ArduinoCSharp.csproj.CopyComplete
