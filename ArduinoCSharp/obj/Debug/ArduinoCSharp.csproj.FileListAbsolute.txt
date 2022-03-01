@@ -12,3 +12,4 @@ C:\Users\jason\source\repos\ArduinoCSharp\ArduinoCSharp\obj\Debug\ArduinoCSharp.
 C:\Users\jason\source\repos\ArduinoCSharp\ArduinoCSharp\bin\Debug\System.IO.Ports.dll
 C:\Users\jason\source\repos\ArduinoCSharp\ArduinoCSharp\bin\Debug\System.IO.Ports.xml
 C:\Users\jason\source\repos\ArduinoCSharp\ArduinoCSharp\obj\Debug\ArduinoCSharp.csproj.CopyComplete
+C:\Users\jason\source\repos\ArduinoCSharp\ArduinoCSharp\obj\Debug\ArduinoCSharp.Comunicacao.resources
